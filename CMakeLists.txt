@@ -3,4 +3,4 @@ project(cpprep)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpprep main.cpp)
+add_executable(cpprep main.cpp triangle.cpp)

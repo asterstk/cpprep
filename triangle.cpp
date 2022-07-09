@@ -1,9 +1,12 @@
+//
+// Created by yead on 7/9/22.
+//
+
 #include <iostream>
+
 using namespace std;
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "Aster" << std::endl;
+int triangle(){
     cout << "   /|" << endl;
     cout << "  / |" << endl;
     cout << " /  |" << endl;
