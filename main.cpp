@@ -3,6 +3,6 @@
 
 int main (){
     //triangle();
-    //nameAndAge();
+    nameAndAge();
     return 0;
 }
