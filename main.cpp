@@ -3,6 +3,7 @@
 
 int main (){
     //triangle();
-    nameAndAge();
+    //nameAndAge();
+    repeatationtest();
     return 0;
 }

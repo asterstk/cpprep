@@ -9,3 +9,4 @@
 
 int triangle();//Creates a right angled triangle
 int nameAndAge(); //An function to ask name and age then print it out
+void repeatationtest(); //Experimental function

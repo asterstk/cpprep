@@ -67,6 +67,12 @@ build CMakeFiles/cpprep.dir/nameAndAge.cpp.o: CXX_COMPILER__cpprep_Debug /home/y
   OBJECT_DIR = CMakeFiles/cpprep.dir
   OBJECT_FILE_DIR = CMakeFiles/cpprep.dir
 
+build CMakeFiles/cpprep.dir/repeatationtest.cpp.o: CXX_COMPILER__cpprep_Debug /home/yead/CLionProjects/cpprep/repeatationtest.cpp || cmake_object_order_depends_target_cpprep
+  DEP_FILE = CMakeFiles/cpprep.dir/repeatationtest.cpp.o.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles/cpprep.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpprep.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpprep
@@ -75,7 +81,7 @@ build CMakeFiles/cpprep.dir/nameAndAge.cpp.o: CXX_COMPILER__cpprep_Debug /home/y
 #############################################
 # Link the executable cpprep
 
-build cpprep: CXX_EXECUTABLE_LINKER__cpprep_Debug CMakeFiles/cpprep.dir/main.cpp.o CMakeFiles/cpprep.dir/triangle.cpp.o CMakeFiles/cpprep.dir/nameAndAge.cpp.o
+build cpprep: CXX_EXECUTABLE_LINKER__cpprep_Debug CMakeFiles/cpprep.dir/main.cpp.o CMakeFiles/cpprep.dir/triangle.cpp.o CMakeFiles/cpprep.dir/nameAndAge.cpp.o CMakeFiles/cpprep.dir/repeatationtest.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpprep.dir
   POST_BUILD = :
