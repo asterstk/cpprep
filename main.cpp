@@ -1,12 +1,8 @@
 #include <iostream>
-using namespace std;
+#include "masterheader.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "Aster" << std::endl;
-    cout << "   /|" << endl;
-    cout << "  / |" << endl;
-    cout << " /  |" << endl;
-    cout << "/___|" << endl;
+int main (){
+    //triangle();
+    //nameAndAge();
     return 0;
 }
