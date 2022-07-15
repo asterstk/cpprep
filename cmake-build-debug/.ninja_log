@@ -1,12 +1,8 @@
 # ninja log v5
 0	132	1657481739468810029	CMakeFiles/cpprep.dir/practice.cpp.o	a34de3dae1714288
-132	168	1657481739504810197	cpprep	9371774c677d2e4d
-0	136	1657479733533223992	CMakeFiles/cpprep.dir/nameAndAge.cpp.o	51b9d0bfdf709e1f
-0	137	1657370979749002179	CMakeFiles/cpprep.dir/triangle.cpp.o	dac8787417497e67
-0	135	1657481601730168655	CMakeFiles/cpprep.dir/main.cpp.o	de95b45ac9dfebb6
-0	10	1657481952682762168	build.ninja	656cca5eb5712fcf
-0	139	1657481952824762794	CMakeFiles/cpprep.dir/main.cpp.o	de95b45ac9dfebb6
-0	135	1657481992218936286	CMakeFiles/cpprep.dir/repeatationtest.cpp.o	793814fd1eb5a982
-135	170	1657481992252936436	cpprep	7a218a708c3ec544
-0	138	1657482280565206173	CMakeFiles/cpprep.dir/repeatationtest.cpp.o	793814fd1eb5a982
+0	10	1657859203403161306	build.ninja	656cca5eb5712fcf
 138	174	1657482280601206332	cpprep	7a218a708c3ec544
+0	136	1657479733533223992	CMakeFiles/cpprep.dir/nameAndAge.cpp.o	51b9d0bfdf709e1f
+0	138	1657482280565206173	CMakeFiles/cpprep.dir/repeatationtest.cpp.o	793814fd1eb5a982
+0	137	1657370979749002179	CMakeFiles/cpprep.dir/triangle.cpp.o	dac8787417497e67
+0	139	1657481952824762794	CMakeFiles/cpprep.dir/main.cpp.o	de95b45ac9dfebb6
